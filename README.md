@@ -114,10 +114,6 @@ This is not a selective theological reading imposed on favored passages. This is
 
 ---
 
-## Abstract
-
-This paper demonstrates that every canonical book of Scripture, without exception, operates from and explicitly teaches the foundational reality of God's absolute sovereignty over all creation, providence, and salvation, and that redemption is accomplished monergistically by God's decisive action rather than synergistically through cooperative human contribution. This is not a selective theological reading imposed on select texts, but the pervasive and explicit framework within which Scripture uniformly speaks. By examining each of the 66 books through rigorous grammatical-historical exegesis, this study reveals that synergism cannot claim even one book where its framework is native to the text, while monergism can claim all 66.
-
 ## Thesis Statement
 
 Every book of the canonical Bible, without exception, operates from the foundational reality that God is absolutely sovereign over all creation, providence, and salvation, and that redemption is accomplished monergistically by God's decisive action, not synergistically through cooperative human contribution. This is not a selective theological reading imposed on the text, but the explicit and pervasive framework within which Scripture speaks.
