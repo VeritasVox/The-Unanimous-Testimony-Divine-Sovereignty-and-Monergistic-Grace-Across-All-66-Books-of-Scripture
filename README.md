@@ -1,5 +1,23 @@
 # The Unanimous Testimony: Divine Sovereignty and Monergistic Grace Across All 66 Books of Scripture
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## Abstract
+
+This study demonstrates through grammatical-historical exegesis that every canonical book of Scripture, without exception, operates from and explicitly teaches God's absolute sovereignty over all creation, providence, and salvation, and that redemption is accomplished monergistically by God's decisive action rather than synergistically through cooperative human contribution. 
+
+By examining all 66 books in their immediate contexts, authorial intent, and canonical coherence, this work reveals a unanimous biblical witness: God's decrees are unconditional and effectual; human will operates only secondary to and dependent upon God's causative action; salvation is monergistic from election through glorification; and Scripture's own language consistently attributes ultimate causation to God alone, not to cooperative human decision.
+
+The study addresses every major synergist proof-text at the pericope level, demonstrating that these passages, when read in context rather than isolated, either support monergism directly or address different theological categories entirely (such as responsibility, corporate covenant patterns, or God's revealed versus decretive will). 
+
+The conclusion is inescapable: synergism cannot claim even one book where its framework is native to the text. The theological architecture from Genesis to Revelation presents a unified testimony of sovereign, efficacious, monergistic grace. The burden of proof now rests entirely on those who would deny this—and the biblical text will not sustain their burden.
+
+This is not a selective theological reading imposed on favored passages. This is the explicit, pervasive, and unanimous framework within which Scripture speaks.
+
+---
+
 ## Table of Contents
 
 - [Abstract](#abstract)
@@ -1170,6 +1188,21 @@ The Holy Bible, English Standard Version. Wheaton, IL: Crossway Bibles, 2001.
 ### Methodological Note
 This study is based entirely on exegesis of the biblical text. No secondary sources are cited because the argument rests on what Scripture itself says in its own words, contexts, and theological structure. The unanimous testimony of all 66 books is sufficient proof.
 
+**Soli Deo Gloria**
+
 ---
 
-**Soli Deo Gloria**
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+© 2025 VeritasVox | Licensed under CC BY 4.0
